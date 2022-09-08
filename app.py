@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 
 import nltk
-nltk.download('wordnet')
 from nltk.tokenize import word_tokenize
 
 import gensim

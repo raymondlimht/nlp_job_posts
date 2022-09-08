@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+pip install nltk
 import nltk
 from nltk.tokenize import word_tokenize
 

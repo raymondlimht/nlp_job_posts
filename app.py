@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 import nltk
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 
 import gensim

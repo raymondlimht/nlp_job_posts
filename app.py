@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-import nltk
 from nltk.tokenize import word_tokenize
 
 import gensim

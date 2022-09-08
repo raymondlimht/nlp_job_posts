@@ -1,7 +1,7 @@
-streamlit == 1.12.2
-numpy == 1.22.3
-pandas == 1.4.1
-lxml == 4.6.3
-gensim == 3.8.3
-pyLDAvis == 3.2.2
-nltk~=3.6.5
+streamlit 
+numpy 
+pandas
+lxml
+gensim 
+pyLDAvis 
+nltk

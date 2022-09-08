@@ -154,7 +154,7 @@ if __name__ == '__main__':
     components.html(py_lda_vis_html, width=1300, height=800)
 
     st.subheader('Coherence Score')
-    
-    coherence_section()
     st.write("The coherence score in topic modeling is used to gauge how comprehensible the topics. Top N words with the hightest probability will falling under a specific topic. The coherence score evaluates how similar these words are to one another in general.")
   
+    coherence_section()
+

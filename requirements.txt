@@ -3,5 +3,5 @@ numpy == 1.22.3
 pandas == 1.4.1
 lxml == 4.6.3
 gensim == 3.8.3
-pyldavis == 3.2.2
+pyldavis == 3.3.1
 nltk == 3.6.5
